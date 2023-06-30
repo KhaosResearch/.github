@@ -1,6 +1,6 @@
 # Welcome to Khaos Research
 
-![khaos_logo](Khaos_repo_public.svg)
+![khaos_logo](khaos_public.svg)
 
 ## Hi there 👋
 
